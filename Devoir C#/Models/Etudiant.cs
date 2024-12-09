@@ -7,6 +7,6 @@ public class Etudiant
     public string Prenom { get; set; }
     public string Adresse { get; set; }
     public virtual ICollection<Absence>? Absences { get; set; }
-    public virtual ICollection<Classe>? Classes { get; set; }
+    public virtual ICollection<Appartient>? Appartients { get; set; }
 
 }
