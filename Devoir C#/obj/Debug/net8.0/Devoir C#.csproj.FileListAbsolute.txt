@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.AssemblyInfo.cs
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.dll
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\refint\Devoir C#.dll
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.pdb
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\Devoir C#.staticwebassets.runtime.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\Devoir C#.exe
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\Devoir C#.deps.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\Devoir C#.runtimeconfig.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\Devoir C#.dll
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\bin\Debug\net8.0\Devoir C#.pdb
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\staticwebassets\msbuild.Devoir C#.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\staticwebassets\msbuild.build.Devoir C#.props
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Devoir C#.props
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Devoir C#.props
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\scopedcss\bundle\Devoir C#.styles.css
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\scopedcss\projectbundle\Devoir C#.bundle.scp.css
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\Devoir C#.genruntimeconfig.cache
+C:\Users\User\Desktop\L3\C#\Devoir C#\Devoir C#\obj\Debug\net8.0\ref\Devoir C#.dll
